@@ -47,7 +47,7 @@ Want to collaborate or learn more? Reach out through the contact form on the sit
 ## 🚀 Deployment
 
 This site is live on GitHub Pages:  
-🔗 [https://your-username.github.io/mary-87800/](https://mary-87800.github.io/your-portfolio-hackthon/)
+🔗 [https://your-mary-87800.github.io/mary-87800/](https://mary-87800.github.io/your-portfolio-hackthon/)
 
 ## ✅ Challenge Checklist
 
