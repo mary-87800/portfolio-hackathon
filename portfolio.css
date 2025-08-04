@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background: #4a90e2;
+  background: #C3A6FF;
   color: white;
   padding: 2rem;
   text-align: center;
@@ -120,3 +120,4 @@ footer {
     max-width: 100%;
   }
 }
+
